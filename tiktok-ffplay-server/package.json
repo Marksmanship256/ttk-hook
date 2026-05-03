@@ -1,0 +1,14 @@
+{
+  "name": "tiktok-ffplay-server",
+  "version": "1.0.0",
+  "description": "Server to launch FFplay with window focus logic",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
